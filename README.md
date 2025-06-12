@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jpcofer
-- 👀 I’m interested in  aprnder coisas novas
-- 🌱 Estou aprendend a programar
+- 👋 Olá, sou @jpcofer
+- 👀 Interessado em aprender coisas novas
+- 🌱 Estou aprendendo a programar
 - 📫 email de contato jpcostafer@gmail.com
 -   ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
 -   ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
